@@ -23,25 +23,8 @@ chmod +x shadowsocks-all.sh
 ```
 
 默认密码`abc123456`
+
 windowns需要使用Shadowsocks-3.4.3.zip,高版本无法连接,此版本最稳定 
 
-### 相关参考
 
-这是优化修改版，原作者版本请看[这里](https://github.com/teddysun/shadowsocks_install)
-
-原作者站点[shadowsocks.be](https://shadowsocks.be/)
-
-### 相关文章
-
-[Shadowsocks 一键安装脚本（四合一）](https://teddysun.com/486.html)
-
-[ShadowsocksR一键安装脚本](https://shadowsocks.be/9.html)
-
-[Shadowsocks libev版一键安装脚本](https://teddysun.com/357.html)
-
-[shadowsocks-libev-debian版一键安装脚本](https://teddysun.com/358.html)
-
-[Shadowsocks Go版一键安装脚本](https://teddysun.com/392.html)
-
-[Shadowsocks Python版一键安装脚本](https://teddysun.com/342.html)
 
