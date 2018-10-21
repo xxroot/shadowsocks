@@ -23,7 +23,7 @@ chmod +x shadowsocks-all.sh
 ```
 
 默认密码`abc123456`
-
+windowns需要使用Shadowsocks-3.4.3.zip,高版本无法连接,此版本最稳定 
 
 ### 相关参考
 
